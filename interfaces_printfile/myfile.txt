@@ -1,0 +1,6 @@
+Hello,
+
+This is an example text file on my hard disk.
+
+Best,
+Robin
